@@ -1,0 +1,10 @@
+p {
+  text-indent: 1em;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #ff0000;
+}
+ul {
+  list-style-type: square;
+  margin-left: 20px;
+}
